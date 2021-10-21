@@ -1,0 +1,19 @@
+{
+  "name": "tercera_entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanml98/Tercera-Entrega---Lauria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanml98/Tercera-Entrega---Lauria/issues"
+  },
+  "homepage": "https://github.com/juanml98/Tercera-Entrega---Lauria#readme"
+}
