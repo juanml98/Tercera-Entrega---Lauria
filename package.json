@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juanml98/Tercera-Entrega---Lauria.git"
+    "url": "https://github.com/juanml98/sass_entrega.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juanml98/Tercera-Entrega---Lauria/issues"
+    "url": "https://github.com/juanml98/sass_entrega.git/issues"
   },
-  "homepage": "https://github.com/juanml98/Tercera-Entrega---Lauria#readme"
+  "homepage": "https://github.com/juanml98/sass_entrega.git#readme"
 }
